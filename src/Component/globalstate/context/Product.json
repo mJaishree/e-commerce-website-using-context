@@ -1,0 +1,300 @@
+
+{
+    "tea" : [
+
+        {
+            "id" : 1,
+            "weight":[
+                {
+                    "kg" : "1 kg",
+                    "price" : 200,
+                    "offer" : 100,
+                    "isActive": true
+                },
+                {
+                    "kg" : "500 g",
+                    "price" : 100,
+                    "offer" : 50,
+                    "isActive": false
+                },
+                {
+                    "kg" : "250 g",
+                    "price" : 75,
+                    "offer" : 25,
+                    "isActive": false
+                }
+            ],
+
+            "image" : "https://www.bigbasket.com/media/uploads/p/m/40033824_23-fresho-apple-red-delicious-regular.jpg?tr=w-1920,q=80",
+             "tname" : "Apple - Red Delicious, Premium",
+             "fname" : "Fresho Apple - Royal Gala, Premium, 4 pcs(Approx.600 g-700 g)",
+             "price" : 400,
+             "kg" : "1 kg",
+             "isfav" : false,
+             "isadd" : false,
+             "count" : 1,
+             "isSelect" : false
+        },
+
+        {
+            "id" : 2,
+            "weight":[
+                {
+                    "kg" : "1 kg",
+                    "price" : 400,
+                    "offer" : 100,
+                    "isActive": true
+                },
+                {
+                    "kg" : "500 g",
+                    "price" : 200,
+                    "offer" : 50,
+                    "isActive": false
+                },
+                {
+                    "kg" : "250 g",
+                    "price" : 100,
+                    "offer" : 25,
+                    "isActive": false
+                }
+            ],
+            "image" : "https://www.bigbasket.com/media/uploads/p/m/10000263_12-fresho-strawberry.jpg?tr=w-1920,q=80",
+             "tname" : "Strawberry",
+             "fname" : "Fresho Strawberry, 200 g",
+             "price" : 150,
+             "kg" : "1 kg",
+             "isfav" : false,
+             "isadd" : false,
+             "count" : 1,
+             "isSelect" : false
+        },
+
+        {
+            "id" : 3,
+            "weight":[
+                {
+                    "kg" : "1 kg",
+                    "price" : 150,
+                    "offer" : 100,
+                    "isActive": true
+                },
+                {
+                    "kg" : "500 g",
+                    "price" : 75,
+                    "offer" : 50,
+                    "isActive": false
+                },
+                {
+                    "kg" : "250 g",
+                    "price" : 40,
+                    "offer" : 25,
+                    "isActive": false
+                }
+            ],
+            "image" : "https://www.bigbasket.com/media/uploads/p/m/40229414_1-fresho-grapes-black-imported.jpg?tr=w-1920,q=80",
+            "tname" : "Mosambi - Economy",
+            "fname" : "Fresho Mosambi - Economy, 3 kg",
+            "price" : 700,
+            "kg" : "1 kg",
+            "isfav" : false,
+            "isadd" : false,
+            "count" : 1,
+            "isSelect" : false
+        },
+        {
+            "id" : 4,
+            "weight":[
+                {
+                    "kg" : "1 kg",
+                    "price" :700,
+                    "offer" : 100,
+                    "isActive": true
+                },
+                {
+                    "kg" : "500 g",
+                    "price" : 350,
+                    "offer" : 50,
+                    "isActive": false
+                },
+                {
+                    "kg" : "250 g",
+                    "price" : 120,
+                    "offer" : 25,
+                    "isActive": false
+                }
+            ],
+            "image" : "https://www.bigbasket.com/media/uploads/p/m/40008982_15-fresho-dragon-fruit.jpg?tr=w-1920,q=80",
+             "tname" : "Fresho Dragon Fruit",
+             "fname" : "Fresho Dragon Fruit, 1 pc 250 to 350 g",
+             "price" : 700,
+             "kg" : "1 kg",
+             "isfav" : false,
+             "isadd" : false,
+             "count" : 1,
+             "isSelect" : false
+        },
+
+        {
+            "id" : 5,
+            "weight":[
+                {
+                    "kg" : "1 kg",
+                    "price" : 300,
+                    "offer" : 100,
+                    "isActive": true
+                },
+                {
+                    "kg" : "500 g",
+                    "price" : 150,
+                    "offer" : 50,
+                    "isActive": false
+                },
+                {
+                    "kg" : "250 g",
+                    "price" : 75,
+                    "offer" : 25,
+                    "isActive": false
+                }
+            ],
+            "image" : "https://www.bigbasket.com/media/uploads/p/m/10000266_31-fresho-orange-nagpur-regular.jpg?tr=w-1920,q=80",
+             "tname" : "Orange - Nagpur, Regular (Loose)",
+             "fname" : "Fresho Orange - Nagpur, Regular (Loose), 1 kg (Approx. 6 - 8 pcs)",
+             "price" : 300,
+             "kg" : "1 kg",
+             "isfav" : false,
+             "isadd" : false,
+             "count" : 1,
+             "isSelect" : false
+        },
+
+        {
+            "id" : 6,
+            "weight":[
+                {
+                    "kg" : "1 kg",
+                    "price" : 400,
+                    "offer" : 100,
+                    "isActive": true
+                },
+                {
+                    "kg" : "500 g",
+                    "price" : 200,
+                    "offer" : 50,
+                    "isActive": false
+                },
+                {
+                    "kg" : "250 g",
+                    "price" : 66,
+                    "offer" : 25,
+                    "isActive": false
+                }
+            ],
+            "image" : "https://www.bigbasket.com/media/uploads/p/m/10000152_22-fresho-papaya-medium.jpg?tr=w-1920,q=80",
+             "tname" : "Papaya - Medium",
+             "fname":"Fresho Papaya - Medium, 1 pc 800g - 1.4 kg",
+             "price" : 400,
+             "kg" : "1 kg",
+             "isfav" : false,
+             "isadd" : false,
+             "count" : 1,
+             "isSelect" : false
+        },
+
+        {
+            "id" : 7,
+            "weight":[
+                {
+                    "kg" : "1 kg",
+                    "price" : 200,
+                    "offer" : 100,
+                    "isActive": true
+                },
+                {
+                    "kg" : "500 g",
+                    "price" : 100,
+                    "offer" : 50,
+                    "isActive": false
+                },
+                {
+                    "kg" : "250 g",
+                    "price" : 75,
+                    "offer" : 25,
+                    "isActive": false
+                }
+            ],
+            "image" : "https://www.bigbasket.com/media/uploads/p/m/10000369_13-fresho-guava.jpg?tr=w-1920,q=80",
+            "tname" : "Guava (Loose)",
+            "fname" : "Fresho Guava (Loose), 1 kg",
+            "price" : 200,
+            "kg" : "1 kg",
+            "isfav" : false,
+            "isadd" : false,
+            "count" : 1,
+            "isSelect" : false
+        },
+        {
+            "id" : 8,
+            "weight":[
+                {
+                    "kg" : "1 kg",
+                    "price" : 300,
+                    "offer" : 100,
+                    "isActive": true
+                },
+                {
+                    "kg" : "500 g",
+                    "price" : 150,
+                    "offer" : 50,
+                    "isActive": false
+                },
+                {
+                    "kg" : "250 g",
+                    "price" : 30,
+                    "offer" : 25,
+                    "isActive": false
+                }
+            ],
+            "image" : "https://www.bigbasket.com/media/uploads/p/m/10000207_24-fresho-watermelon-small.jpg?tr=w-1920,q=80",
+             "tname" : "Watermelon - Small",
+             "fname" : "Fresho Watermelon - Small, 1 pc 1.7 - 2.5 kg",
+             "price" : 300,
+             "kg" : "1 kg",
+             "isfav" : false,
+             "isadd" : false,
+             "count" : 1,
+             "isSelect" : false
+        },
+        {
+            "id" : 9,
+            "weight":[
+                {
+                    "kg" : "1 kg",
+                    "price" : 500,
+                    "offer" : 100,
+                    "isActive": true
+                },
+                {
+                    "kg" : "500 g",
+                    "price" : 250,
+                    "offer" : 50,
+                    "isActive": false
+                },
+                {
+                    "kg" : "250 g",
+                    "price" : 83,
+                    "offer" : 25,
+                    "isActive": false
+                }
+            ],
+            "image" : "https://www.bigbasket.com/media/uploads/p/m/30009284_8-fresho-avocado-imported-medium.jpg?tr=w-1920,q=80",
+            "tname" : "Avocado - Imported, Medium",
+            "fname" : "Fresho Avocado - Imported, Medium, 1 pc",
+            "price" : 500,
+            "kg" : "1 kg",
+            "isfav" : false,
+            "isadd" : false,
+            "count" : 1,
+            "isSelect" : false
+        }
+    ]
+}
